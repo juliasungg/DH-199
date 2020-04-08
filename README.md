@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Project Description
 
-You can use the [editor on GitHub](https://github.com/juliasungg/DH-199/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Although I grew up in Los Angeles, there is not a lot I know about its complex history. This project will offer accessible digital learning experience of Los Angeles by enabling users to follow places through time. My goal is to suggest a ux design of mobile app where users can learn about LA’s rich history on the go
+through searching by interest in history(e.g. Arts, Food, Politics) or location. (e.g. Hollywood, DTLA, Ktown). Due to LA's rich history as one of the biggest and most demographically diverse metropolitan cities in the world, many people have created various stories and media projects. But the projects have an overwhelming amount of text/information that is unorganized and indigestible. Therefore, I would like to propose an experience design of human-centered, easy to use and accessible, location-based information through a mobile context. In the process, I will conduct a heuristic evaluation of previous works and user research to understand my target audiences’ needs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Expected Outcome
 
-### Markdown
+In response to those needs, I will also create personas, journey maps and a prototype as a proof of design concept. This project would be beneficial to not only LA local residents but also visitors that would like to experience the past and present diverse LA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliasungg/DH-199/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Project Outline
