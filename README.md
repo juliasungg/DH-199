@@ -9,3 +9,12 @@ In response to those needs, I will also create personas, journey maps and a prot
 
 
 ### Project Outline
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/55997881/78739107-69cd8f80-7908-11ea-9219-80a9e74a4033.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/55997881/78739104-6803cc00-7908-11ea-9578-e0e7e7221993.png" width="100" 
+/>
+</p>
+
+
+
