@@ -11,8 +11,8 @@ In response to those needs, I will also create personas, journey maps and a prot
 ### Project Outline
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/55997881/78739107-69cd8f80-7908-11ea-9219-80a9e74a4033.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/55997881/78739104-6803cc00-7908-11ea-9578-e0e7e7221993.png" width="300" 
+  <img src="https://user-images.githubusercontent.com/55997881/78849650-e96f6300-79c9-11ea-976b-48a2054b5f52.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/55997881/78849647-e83e3600-79c9-11ea-81ca-b43f5e9a95bc.png" width="300" 
 />
 </p>
 
